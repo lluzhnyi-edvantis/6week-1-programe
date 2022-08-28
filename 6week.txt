@@ -1,0 +1,18 @@
+ООП 2
+ООП - Абстрактні методи, Абстрактний клас,типи методів.
+Декоратори.
+
+
+					Завдання
+Розібратись в ReneeMontoyaApp 
+Перенести метод save і _generate_dict в абстрактний клас Model і зробити їх універсальними
+Створити нову сутність салон, додати можливість при створенні працівника вказати його Салон по назві Салону, а також додати можливість в моделі працівника діставати данні про салон (Аналог з Plant і director)
+ Винести все що є в main в окремий клас Controller, за принципом меню один метод, створення employee окремий метод і т.д. це все в тій ж аплікації. 
+
+
+https://tproger.ru/translations/demystifying-decorators-in-python/
+http://pythonicway.com/education/python-oop-themes/33-python-abstract-class
+https://otus.ru/nest/post/677/
+https://devpractice.ru/python-lesson-14-classes-and-objects/
+https://developer.mozilla.org/en-US/docs/Glossary/MVC
+https://habr.com/ru/post/463125/
